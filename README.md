@@ -2,7 +2,7 @@
 
 This course is the finalizing technical / coding course at [Devine, a 3 year Bachelor degree](https://devine.be).
 
-## All Students
+## All Students - First 6 weeks
 
 The following topics are covered for all students:
 
@@ -22,7 +22,7 @@ Familiarize yourselves with the basics of Unity and C#.
 
 You'll present your research on a given library / framework
 
-## Expert Students
+## Expert Students - Week 7 - End of January
 
 When following this course as an "Expert", we'll cover these extra topics:
 
