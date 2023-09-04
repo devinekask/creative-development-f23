@@ -1,6 +1,5 @@
 import { Pressable, StyleSheet } from 'react-native';
 
-import EditScreenInfo from '../../../components/EditScreenInfo';
 import { Text, View } from '../../../components/Themed';
 import { FlashList } from '@shopify/flash-list';
 import { Image } from 'expo-image';
