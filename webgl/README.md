@@ -1968,6 +1968,12 @@ seaAnimate = localSeaAnimate;
 
 Call the global `seaAnimate` method in your render loop, and you should see a moving sea.
 
+## ThreeJS + Blender + Shader
+
+There's one more tutorial on the learning platform, which teaches you how to bake lighting and shadows from Blender into a texture and how to integrate a shadertoy fragment shader into that same ThreeJS scene.
+
+![3d room with nice shadows and animation](images/three-baked-shader.gif)
+
 # Where to go from here
 
 - http://math.hws.edu/graphicsbook/index.html
