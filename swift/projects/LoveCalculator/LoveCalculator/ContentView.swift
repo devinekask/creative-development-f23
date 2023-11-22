@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  LoveCalculator
-//
-//  Created by Wouter Verweirder on 14/11/2023.
-//
-
 import SwiftUI
 
 func generateRandomIntExcept(range:ClosedRange<Int>, except: Int) -> Int {
